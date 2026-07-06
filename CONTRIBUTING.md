@@ -1,6 +1,9 @@
 # Contributing to Mathematics — Open Documentation
 
-Thank you for your interest in contributing! This repository welcomes new documents, corrections, and improvements from anyone.
+Thank you for your interest in contributing! Constructive feedback and improvements from anyone are warmly welcome.  
+This is an open educational project — every correction, suggestion, or new document makes the library better.
+
+📬 You can also reach out directly at **OThack1A@proton.me**
 
 ---
 
@@ -24,7 +27,17 @@ If you spot an error in an existing PDF or in the README:
 
 ### 3. Suggesting a topic
 
-Open a **GitHub Issue** with the label `topic request` and describe the theorem or concept you'd like to see covered.
+Open a **GitHub Issue** with the label `topic request` and describe the theorem or concept you'd like to see covered.  
+Alternatively, send a suggestion by email to **OThack1A@proton.me**.
+
+### 4. Reporting errors or inaccuracies
+
+If you find a mathematical error, a typo, or a misleading explanation, please open a **GitHub Issue** with:
+- The file name and page/section where the error occurs
+- A description of the problem
+- (Optional) Your suggested correction
+
+All reports are appreciated — accuracy matters.
 
 ---
 
